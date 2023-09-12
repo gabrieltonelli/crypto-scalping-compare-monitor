@@ -1,2 +1,2 @@
-# crypto-scalping-compare-monitor
+# tradingview-dashboard
 Created with CodeSandbox
